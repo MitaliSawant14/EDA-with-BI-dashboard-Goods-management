@@ -48,9 +48,3 @@ An interactive Power BI dashboard was created to visualize:
 * Wastage trends
 * Product-level contribution to total revenue
 
-## Conclusion
-
-This project demonstrates how data analysis can help businesses improve inventory management and product performance. The insights generated can assist decision-makers in reducing wastage, improving profitability, and optimizing product strategies.
-
-ali Sawant
-Data Analytics Enthusiast
